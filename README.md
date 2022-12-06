@@ -13,4 +13,6 @@ $ cd profile_app/
 
 Next to run application on VScode have phone emulator installed and launched it. Afterwards while VScode is open press F5 to start debugger.
 
-Application should be running at this point.
+Application should be running at this point. 
+
+Pixel 6 API 30 emulator was used to create App.
